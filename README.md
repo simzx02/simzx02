@@ -1,149 +1,139 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
-
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
+[![Actions Status](https://github.com/simzx02/simzx02/workflows/wakatime-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
+[![Actions Status](https://github.com/simzx02/simzx02/workflows/update-gh-activity/badge.svg)](https://github.com/simzx02/simzx02/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=simzx02.simzx02)
 
 <p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+  <img src="https://socialify.git.ci/simzx02/simzx02/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="simzx02" width="700" height="300" />
 </p>
 
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+<a href="https://www.linkedin.com/in/simzhongxian/">
+  <img alt="Sim Zhong Xian's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <br>
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simzx02&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simzx02&theme=github-dark-dimmed&custom_title=Sim%20Zhong%20Xian%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Senior Robotics Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences:
-  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+name: Sim Zhong Xian
+located_in: Johor Bahru, Malaysia
+from: Malaysia
+current_status: Fresh Graduate & Aspiring Robotics Engineer
+education: ["Bachelor of Engineering (Electrical-Mechatronics) with Honours", "Universiti Teknologi Malaysia", "CGPA: 3.95/4.0", "Dean's List (8 semesters)"]
+languages: ["English (IELTS Band 7)", "Mandarin", "Malay"]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+internship_experiences:
+  - ["Robotics Research Intern", "Robotics Projects (ROS2, Robotic Arm, Dexterous Hand, Tactile Sensors)", "A*STAR", "Singapore", "Sep 2025 - Nov 2025"]
+  - ["Design Verification Intern", "Testing & Scripting on UNIX Systems", "AMD Global Services", "Malaysia", "Jul 2024 - Oct 2024"]
+  - ["Technical Trainee Intern", "SolidWorks Training & Customer Support", "CADVision System", "Penang, Malaysia", "Aug 2023 - Sep 2023"]
+
+current_projects:
+  - ["CHIPS", "Cardiovascular Health Insight Prediction System (FYP)", "AI/ML for CVD Detection with IoT Integration"]
+  - ["KongsiPark", "Smart Parking Management System Startup", "UTM XCITE Incubator Program"]
+  - ["Research Paper", "Ensemble Models for Cardiovascular Health", "Submitted to TCCE-2025"]
+
+fields_of_interests: 
+  - "Robotics & Automation"
+  - "Artificial Intelligence & Machine Learning"
+  - "IoT & Embedded Systems"
+  - "Computer Vision"
+  - "Smart Manufacturing"
+  - "Mechatronics Design"
+
+technical_background:
+  - "ROS1/2 Development"
+  - "Python & C Programming"
+  - "MATLAB & Simulink"
+  - "Machine Learning (Neural Networks, Ensemble Models)"
+  - "Embedded Systems (Arduino, Atmel)"
+  - "CAD Design (SolidWorks)"
+  - "FPGA (Verilog, Quartus, Vivado)"
+  - "Version Control (Git/GitHub)"
+
+currently_learning: ["Advanced Robotics", "Deep Learning", "ROS2", "Flutter & Firebase"]
+will_learn: ["Computer Vision (OpenCV)", "Robot Manipulation", "Reinforcement Learning"]
+hobbies: ["Erhu Performance (UTM Chinese Orchestra)", "Photography", "Leadership Activities", "Tech Innovation"]
+
+awards_and_recognition:
+  - "A*STAR Singapore International Pre-Graduate Award (SIPGA)"
+  - "3rd Place - UTM GEMA Graduate Employability Initiative"
+  - "Student Innovator Startup Challenge Winner (RM2k)"
+  - "The Next Big Thing Startup Competition Seed Grant (RM5k)"
+  - "Dean's Award & Dean's List for 8 Semesters"
+  - "Hanyang International Summer School - Grade: 92.5/100"
 ```
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
+## 🔭 Featured Projects
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
+### [CHIPS: Cardiovascular Health Insight Prediction System](https://github.com/simzx02/cardio)
+AI-powered cardiovascular disease detection system integrating IoT sensors (MAX30102) with machine learning ensemble models for early CVD detection.
 
+### [Capstone: Contact Lens Packaging Detector & Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
+Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
+
+### KongsiPark: Smart Parking Management System
+Startup project under UTM XCITE incubator, developing innovative parking solutions for urban mobility challenges.
+
+---
 
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
-2. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
-3. 🗣 Commented on [#6](https://github.com/guilyx/awesome-github-pages-portfolios/pull/6#issuecomment-3516670713) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
-4. ❗ Opened issue [#221](https://github.com/SharedStake/SharedStake-ui/issues/221) in [SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui)
-5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+1. 🚀 Currently working on CHIPS project and research paper submission
+2. 🎓 Completed A*STAR internship in Singapore
+3. 💡 Developing KongsiPark startup under UTM XCITE
+4. 📝 Paper submitted to TCCE-2025 conference
+5. 🏆 Won multiple startup competitions and innovation awards
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C188%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 406.0 kB Used in GitHub's Storage 
+> 📦 Used in GitHub's Storage 
  > 
-> 🏆 1,223 Contributions in the Year 2025
+> 🏆 Contributions in 2025
  > 
-> 💼 Opted to Hire
+> 💼 Open to Opportunities
  > 
-> 📜 92 Public Repositories 
+> 📜 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                940 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌆 Daytime                4413 commits        ███████████░░░░░░░░░░░░░░   42.09 % 
-🌃 Evening                3753 commits        █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌙 Night                  1379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+🕑︎ Time Zone: Asia/Kuala_Lumpur
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-C++                      1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Bash                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-YAML                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-
-🐱‍💻 Projects: 
-arrc_bt_monitor          3 hrs 19 mins       ████████████░░░░░░░░░░░░░   46.98 % 
-si_swarm_tui             1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-swarm_mission            53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-arrc_si_system_monitor   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-arrc_si_deploy           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
- Last Updated on 26/11/2025 12:59:34 UTC
+ Last Updated on 26/11/2025 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
+---
 
-```text
-From: 16 July 2020 - To: 24 November 2025
+## 📫 How to Reach Me
 
-Total Time: 2,186 hrs 49 mins
+- 📧 Email: simxian@graduate.utm.my / zex.sim02@gmail.com
+- 💼 LinkedIn: [Sim Zhong Xian](https://www.linkedin.com/in/simzhongxian/)
+- 📱 Phone: +6014-6002369
 
-C++                        732 hrs 32 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.50 %
-Python                     335 hrs 21 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.34 %
-Go                         313 hrs 18 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.33 %
-C                          145 hrs 51 mins ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.67 %
-YAML                       112 hrs 34 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.15 %
-Bash                       105 hrs 5 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.81 %
-```
+## 🎯 Looking For
 
-<!--END_SECTION:waka-simple-->
+I'm actively seeking **research opportunities** and **graduate positions** in:
+- Robotics & Automation
+- Artificial Intelligence & Machine Learning
+- Embedded Systems & IoT
+- Smart Manufacturing & Industry 4.0
 
-Liked it ?
-
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
-
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
