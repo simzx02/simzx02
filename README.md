@@ -76,30 +76,42 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 Used in GitHub's Storage 
+> 📦 397.5 kB Used in GitHub's Storage 
  > 
-> 🏆 Contributions in 2025
+> 🏆 166 Contributions in the Year 2025
  > 
-> 💼 Open to Opportunities
+> 🚫 Not Opted to Hire
  > 
-> 📜 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                ███░░░░░░░░░░░░░░░░░░░░░░   
-🌆 Daytime                ███████████░░░░░░░░░░░░░░   
-🌃 Evening                █████████░░░░░░░░░░░░░░░░   
-🌙 Night                  ███░░░░░░░░░░░░░░░░░░░░░░   
+🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                258 commits         ███████████░░░░░░░░░░░░░░   44.79 % 
+🌃 Evening                163 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Saturday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Sunday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -107,20 +119,36 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Python                   ████████████████░░░░░░░░░   
-C++                      ████████░░░░░░░░░░░░░░░░░   
-MATLAB                   ████░░░░░░░░░░░░░░░░░░░░░   
-Verilog                  ██░░░░░░░░░░░░░░░░░░░░░░░   
-C                        ██░░░░░░░░░░░░░░░░░░░░░░░   
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CHIPS-FYP                ████████████░░░░░░░░░░░░░   
-KongsiPark               ████████░░░░░░░░░░░░░░░░░   
-Research-Paper           ████░░░░░░░░░░░░░░░░░░░░░   
-Robotics-Projects        ███░░░░░░░░░░░░░░░░░░░░░░   
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
- Last Updated on 26/11/2025 
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/simzx02/simzx02/master/assets/bar_graph.png)
+
+
+ Last Updated on 26/11/2025 14:44:36 UTC
 <!--END_SECTION:waka-->
 
 ---
