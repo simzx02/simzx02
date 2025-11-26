@@ -24,7 +24,7 @@
 name: Sim Zhong Xian
 located_in: Johor Bahru, Malaysia
 from: Malaysia
-current_status: Fresh Graduate & Aspiring Robotics Engineer
+current_status: Fresh Graduate & Intern
 education: ["Bachelor of Engineering (Electrical-Mechatronics) with Honours", "Universiti Teknologi Malaysia", "CGPA: 3.95/4.0", "Dean's List (8 semesters)"]
 languages: ["English (IELTS Band 7)", "Mandarin", "Malay"]
 
@@ -36,7 +36,6 @@ internship_experiences:
 current_projects:
   - ["CHIPS", "Cardiovascular Health Insight Prediction System (FYP)", "AI/ML for CVD Detection with IoT Integration"]
   - ["KongsiPark", "Smart Parking Management System Startup", "UTM XCITE Incubator Program"]
-  - ["Research Paper", "Ensemble Models for Cardiovascular Health", "Submitted to TCCE-2025"]
 
 fields_of_interests: 
   - "Robotics & Automation"
@@ -57,8 +56,7 @@ technical_background:
   - "Version Control (Git/GitHub)"
 
 currently_learning: ["Advanced Robotics", "Deep Learning", "ROS2", "Flutter & Firebase"]
-will_learn: ["Computer Vision (OpenCV)", "Robot Manipulation", "Reinforcement Learning"]
-hobbies: ["Erhu Performance (UTM Chinese Orchestra)", "Photography", "Leadership Activities", "Tech Innovation"]
+hobbies: ["Erhu", "Photography", "Ping-pong", "Tech Innovation"]
 
 awards_and_recognition:
   - "A*STAR Singapore International Pre-Graduate Award (SIPGA)"
@@ -66,7 +64,7 @@ awards_and_recognition:
   - "Student Innovator Startup Challenge Winner (RM2k)"
   - "The Next Big Thing Startup Competition Seed Grant (RM5k)"
   - "Dean's Award & Dean's List for 8 Semesters"
-  - "Hanyang International Summer School - Grade: 92.5/100"
+  - "MK69 Alumni Prize Award 2025"
 ```
 
 ## 🔭 Featured Projects
@@ -76,22 +74,7 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 
 ### [Capstone: Contact Lens Packaging Detector & Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
-
-### KongsiPark: Smart Parking Management System
-Startup project under UTM XCITE incubator, developing innovative parking solutions for urban mobility challenges.
-
 ---
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🚀 Currently working on CHIPS project and research paper submission
-2. 🎓 Completed A*STAR internship in Singapore
-3. 💡 Developing KongsiPark startup under UTM XCITE
-4. 📝 Paper submitted to TCCE-2025 conference
-5. 🏆 Won multiple startup competitions and innovation awards
-<!--END_SECTION:activity-->
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue)
 
@@ -99,16 +82,25 @@ Startup project under UTM XCITE incubator, developing innovative parking solutio
 
 **🐱 My GitHub Data** 
 
-> 📦 Used in GitHub's Storage 
- > 
-> 🏆 Contributions in 2025
- > 
-> 💼 Open to Opportunities
- > 
-> 📜 Public Repositories 
- > 
-> 🔑 Private Repositories 
- > 
+```text
+🌞 Morning                ███░░░░░░░░░░░░░░░░░░░░░░   
+🌆 Daytime                ███████████░░░░░░░░░░░░░░   
+🌃 Evening                █████████░░░░░░░░░░░░░░░░   
+🌙 Night                  ███░░░░░░░░░░░░░░░░░░░░░░   
+```
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+Python                   ████████████████░░░░░░░░░   
+C++                      ████████░░░░░░░░░░░░░░░░░   
+MATLAB                   ████░░░░░░░░░░░░░░░░░░░░░   
+Verilog                  ██░░░░░░░░░░░░░░░░░░░░░░░   
+C                        ██░░░░░░░░░░░░░░░░░░░░░░░   
+
 
 ```text
 🕑︎ Time Zone: Asia/Kuala_Lumpur
@@ -121,17 +113,14 @@ Startup project under UTM XCITE incubator, developing innovative parking solutio
 
 ## 📫 How to Reach Me
 
-- 📧 Email: simxian@graduate.utm.my / zex.sim02@gmail.com
+- 📧 Email: simxian@graduate.utm.my
 - 💼 LinkedIn: [Sim Zhong Xian](https://www.linkedin.com/in/simzhongxian/)
-- 📱 Phone: +6014-6002369
 
 ## 🎯 Looking For
 
 I'm actively seeking **research opportunities** and **graduate positions** in:
 - Robotics & Automation
-- Artificial Intelligence & Machine Learning
-- Embedded Systems & IoT
-- Smart Manufacturing & Industry 4.0
+- Semiconductor Devices
 
 ---
 
