@@ -1,5 +1,4 @@
-[![Actions Status](https://github.com/simzx02/simzx02/workflows/wakatime-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
-[![Actions Status](https://github.com/simzx02/simzx02/workflows/update-gh-activity/badge.svg)](https://github.com/simzx02/simzx02/actions)
+[![Actions Status](https://github.com/simzx02/simzx02/workflows/waka-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=simzx02.simzx02)
 
 <p align="center">
