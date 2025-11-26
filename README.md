@@ -1,4 +1,5 @@
 [![Actions Status](https://github.com/simzx02/simzx02/workflows/waka-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
+[![Actions Status](https://github.com/simzx02/simzx02/workflows/update-gh-activity/badge.svg)](https://github.com/simzx02/simzx02/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=simzx02.simzx02)
 
 <p align="center">
@@ -73,6 +74,16 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 
 ### [Capstone: Contact Lens Packaging Detector & Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](undefined) in [guilyx/plotjuggler-ros-plugins](https://github.com/guilyx/plotjuggler-ros-plugins)
+2. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
+3. 🗣 Commented on [#6](https://github.com/guilyx/awesome-github-pages-portfolios/pull/6#issuecomment-3516670713) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
+4. ❗ Opened issue [#221](https://github.com/SharedStake/SharedStake-ui/issues/221) in [SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui)
+5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
+<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
