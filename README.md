@@ -76,37 +76,13 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hrs%200%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
+```txt
+From: 18 November 2025 - To: 25 November 2025
 
-**🐱 My GitHub Data** 
-
-```text
-🌞 Morning                ███░░░░░░░░░░░░░░░░░░░░░░   
-🌆 Daytime                ███████████░░░░░░░░░░░░░░   
-🌃 Evening                █████████░░░░░░░░░░░░░░░░   
-🌙 Night                  ███░░░░░░░░░░░░░░░░░░░░░░   
+No activity tracked
 ```
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-Python                   ████████████████░░░░░░░░░   
-C++                      ████████░░░░░░░░░░░░░░░░░   
-MATLAB                   ████░░░░░░░░░░░░░░░░░░░░░   
-Verilog                  ██░░░░░░░░░░░░░░░░░░░░░░░   
-C                        ██░░░░░░░░░░░░░░░░░░░░░░░   
-
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-```
-
- Last Updated on 26/11/2025 
 <!--END_SECTION:waka-->
 
 ---
