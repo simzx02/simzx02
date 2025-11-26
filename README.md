@@ -74,7 +74,7 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 
 ### [Capstone: Contact Lens Packaging Detector & Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
----
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
