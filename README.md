@@ -96,19 +96,23 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
 
-## **🐱 My GitHub Data**  ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
 
 > 📦 397.5 kB Used in GitHub's Storage 
  > 
 > 🏆 159 Contributions in the Year 2025
  > 
+> 🚫 Not Opted to Hire
+ > 
 > 📜 16 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
- >
-
-🕰️**My Active Hours** 
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
@@ -116,8 +120,7 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 🌃 Evening                162 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
 🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 ```
-
-📅 **I'm Most Productive on Sunday, But Perhaps, Everyday!** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
@@ -128,7 +131,7 @@ Friday                   69 commits          ███░░░░░░░░�
 Saturday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 Sunday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
 ```
----
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -154,9 +157,7 @@ ros2_rm_robot            0 secs              ░░░░░░░░░░░�
 Linux                    6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
----
-
-🐍**I Mostly Code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
@@ -173,7 +174,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simzx02/simzx02/master/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 01:42:07 UTC
+ Last Updated on 30/11/2025 04:00:22 UTC
 <!--END_SECTION:waka-->
 
 ---
