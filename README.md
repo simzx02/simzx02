@@ -86,8 +86,8 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Complete Release v1.0.0](https://github.com/simzx02/cardio/releases/tag/v1.0.0) in [simzx02/cardio](https://github.com/simzx02/cardio)
-2. 💪 Opened PR [#108](undefined) in [PlotJuggler/plotjuggler-ros-plugins](https://github.com/PlotJuggler/plotjuggler-ros-plugins)
+1. 🚀 Published release [Version 1.0.0](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer/releases/tag/V1.0.0) in [simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
+2. 🚀 Published release [Complete Release v1.0.0](https://github.com/simzx02/cardio/releases/tag/v1.0.0) in [simzx02/cardio](https://github.com/simzx02/cardio)
 3. 🗣 Commented on [#6](https://github.com/guilyx/awesome-github-pages-portfolios/pull/6#issuecomment-3516670713) in [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)
 4. ❗ Opened issue [#221](https://github.com/SharedStake/SharedStake-ui/issues/221) in [SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui)
 5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
