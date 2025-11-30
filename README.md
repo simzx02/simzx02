@@ -100,18 +100,6 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 397.5 kB Used in GitHub's Storage 
- > 
-> 🏆 159 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 7 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -174,7 +162,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/simzx02/simzx02/master/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2025 04:00:22 UTC
+ Last Updated on 30/11/2025 08:25:54 UTC
 <!--END_SECTION:waka-->
 
 ---
