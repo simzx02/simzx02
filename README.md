@@ -96,11 +96,8 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
+## **🐱 My GitHub Data**  ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
 > 📦 397.5 kB Used in GitHub's Storage 
  > 
@@ -111,7 +108,7 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 > 🔑 7 Private Repositories 
  >
 
-**My Active Hours** 
+🕰️**My Active Hours** 
 
 ```text
 🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
@@ -159,7 +156,7 @@ Linux                    6 hrs 20 mins       ███████████�
 
 ---
 
-**I Mostly Code in Python** 
+🐍**I Mostly Code in Python** 
 
 ```text
 Python                   5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
