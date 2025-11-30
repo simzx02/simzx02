@@ -20,52 +20,58 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simzx02&theme=github-dark-dimmed&custom_title=Sim%20Zhong%20Xian%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```yaml
-name: Sim Zhong Xian
-located_in: Johor Bahru, Malaysia
-from: Malaysia
-current_status: Fresh Graduate & Intern
-education: ["Bachelor of Engineering (Electrical-Mechatronics) with Honours", "Universiti Teknologi Malaysia", "CGPA: 3.95/4.0", "Dean's List (8 semesters)"]
-languages: ["English (IELTS Band 7)", "Mandarin", "Malay"]
+# 👋 Hi, I'm Sim Zhong Xian
 
-internship_experiences:
-  - ["Robotics Research Intern", "Robotics Projects (ROS2, Robotic Arm, Dexterous Hand, Tactile Sensors)", "A*STAR", "Singapore", "Sep 2025 - Nov 2025"]
-  - ["Design Verification Intern", "Testing & Scripting on UNIX Systems", "AMD Global Services", "Malaysia", "Jul 2024 - Oct 2024"]
-  - ["Technical Trainee Intern", "SolidWorks Training & Customer Support", "CADVision System", "Penang, Malaysia", "Aug 2023 - Sep 2023"]
+📍 **Based in:** Penang
+🎓 **Status:** Fresh Graduate 
+🌏 **From:** Malaysia
 
-current_projects:
-  - ["CHIPS", "Cardiovascular Health Insight Prediction System (FYP)", "AI/ML for CVD Detection with IoT Integration"]
-  - ["KongsiPark", "Smart Parking Management System Startup", "UTM XCITE Incubator Program"]
+---
 
-fields_of_interests: 
-  - "Robotics & Automation"
-  - "Artificial Intelligence & Machine Learning"
-  - "IoT & Embedded Systems"
-  - "Computer Vision"
-  - "Smart Manufacturing"
-  - "Mechatronics Design"
+## 🎓 Education
 
-technical_background:
-  - "ROS1/2 Development"
-  - "Python & C Programming"
-  - "MATLAB & Simulink"
-  - "Machine Learning (Neural Networks, Ensemble Models)"
-  - "Embedded Systems (Arduino, Atmel)"
-  - "CAD Design (SolidWorks)"
-  - "FPGA (Verilog, Quartus, Vivado)"
-  - "Version Control (Git/GitHub)"
+**Bachelor of Engineering (Electrical-Mechatronics) with Honours**  
+Universiti Teknologi Malaysia  
 
-currently_learning: ["Advanced Robotics", "Deep Learning", "ROS2", "Flutter & Firebase"]
-hobbies: ["Erhu", "Photography", "Ping-pong", "Tech Innovation"]
+---
 
-awards_and_recognition:
-  - "A*STAR Singapore International Pre-Graduate Award (SIPGA)"
-  - "3rd Place - UTM GEMA Graduate Employability Initiative"
-  - "Student Innovator Startup Challenge Winner (RM2k)"
-  - "The Next Big Thing Startup Competition Seed Grant (RM5k)"
-  - "Dean's Award & Dean's List for 8 Semesters"
-  - "MK69 Alumni Prize Award 2025"
-```
+## 💼 Internship Experience
+
+### Robotics Research Intern
+**A\*STAR** | Singapore | *Sep 2025 - Nov 2025*
+- Worked on robotics projects involving ROS2, robotic arms, dexterous hands, and tactile sensors
+
+### Design Verification Intern
+**AMD Global Services** | Malaysia | *Jul 2024 - Oct 2024*
+- Testing and scripting on UNIX systems
+
+### Technical Trainee Intern
+**CADVision System** | Penang, Malaysia | *Aug 2023 - Sep 2023*
+- SolidWorks training and customer support
+
+---
+
+## 🔬 Fields of Interest
+
+- 🤖 Robotics & Automation
+- 🧠 Artificial Intelligence & Machine Learning
+- 📡 IoT & Embedded Systems
+- 👁️ Computer Vision
+- 🏭 Smart Manufacturing
+- ⚙️ Mechatronics Design
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🌟 **A\*STAR Singapore International Pre-Graduate Award (SIPGA)**
+- 🥉 **3rd Place** - UTM GEMA Graduate Employability Initiative
+- 💡 **Student Innovator Startup Challenge Winner** (RM2k)
+- 🚀 **Top 30 The Next Big Thing Startup Competition** with Seed Grant (RM5k)
+- 📜 **Dean's Award & Dean's List** for 8 Semesters
+- 🎖️ **MK69 UTM Convocation Alumni Prize Award 2025**
+
+---
 
 ## 🔭 Featured Projects
 
@@ -74,6 +80,8 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 
 ### [Capstone: Contact Lens Packaging Detector & Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
+
+---
 
 **:zap: Recent Activity:**
 
@@ -84,6 +92,8 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 4. ❗ Opened issue [#221](https://github.com/SharedStake/SharedStake-ui/issues/221) in [SharedStake/SharedStake-ui](https://github.com/SharedStake/SharedStake-ui)
 5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
 <!--END_SECTION:activity-->
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
@@ -96,13 +106,12 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
  > 
 > 🏆 159 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 16 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+
+**My Active Hours** 
 
 ```text
 🌞 Morning                68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
@@ -110,7 +119,8 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 🌃 Evening                162 commits         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
 🌙 Night                  88 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday, But Perhaps, Everyday!** 
 
 ```text
 Monday                   122 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
@@ -121,7 +131,7 @@ Friday                   69 commits          ███░░░░░░░░�
 Saturday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 Sunday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
 ```
-
+---
 
 📊 **This Week I Spent My Time On** 
 
@@ -146,6 +156,8 @@ ros2_rm_robot            0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Linux                    6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
+
+---
 
 **I Mostly Code in Python** 
 
@@ -174,11 +186,7 @@ C++                      1 repo              ██░░░░░░░░░�
 - 📧 Email: simxian@graduate.utm.my
 - 💼 LinkedIn: [Sim Zhong Xian](https://www.linkedin.com/in/simzhongxian/)
 
-## 🎯 Looking For
 
-I'm actively seeking **research opportunities** and **graduate positions** in:
-- Robotics & Automation
-- Semiconductor Devices
 
 ---
 
