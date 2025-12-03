@@ -35,44 +35,6 @@ Universiti Teknologi Malaysia
 
 ---
 
-## 💼 Internship Experience
-
-### Robotics Research Intern
-**A\*STAR** | Singapore | *Sep 2025 - Nov 2025*
-- Worked on robotics projects involving ROS2, robotic arms, dexterous hands, and tactile sensors
-
-### Design Verification Intern
-**AMD Global Services** | Malaysia | *Jul 2024 - Oct 2024*
-- Testing and scripting on UNIX systems
-
-### Technical Trainee Intern
-**CADVision System** | Penang, Malaysia | *Aug 2023 - Sep 2023*
-- SolidWorks training and customer support
-
----
-
-## 🔬 Fields of Interest
-
-- 🤖 Robotics & Automation
-- 🧠 Artificial Intelligence & Machine Learning
-- 📡 IoT & Embedded Systems
-- 👁️ Computer Vision
-- 🏭 Smart Manufacturing
-- ⚙️ Mechatronics Design
-
----
-
-## 🏆 Awards & Recognition
-
-- 🌟 **A\*STAR Singapore International Pre-Graduate Award (SIPGA)**
-- 🥉 **3rd Place** - UTM GEMA Graduate Employability Initiative
-- 💡 **Student Innovator Startup Challenge Winner** (RM2k)
-- 🚀 **Top 30 The Next Big Thing Startup Competition** with Seed Grant (RM5k)
-- 📜 **Dean's Award & Dean's List** for 8 Semesters
-- 🎖️ **MK69 UTM Convocation Alumni Prize Award 2025**
-
----
-
 ## 🔭 Featured Projects
 
 ### [CHIPS: Cardiovascular Health Insight Prediction System](https://github.com/simzx02/cardio)
@@ -173,7 +135,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 - 📧 Email: simxian@graduate.utm.my
 - 💼 LinkedIn: [Sim Zhong Xian](https://www.linkedin.com/in/simzhongxian/)
-
+- 🌐 Website: [Click Me](https://simzx.me)
 
 
 ---
