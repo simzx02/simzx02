@@ -16,12 +16,6 @@
 [![trophy-Dark](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=nord&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 [![trophy-Light](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=flat&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
-<br/>
-
-[![Top Langs-Dark](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=simzx02&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=simzx02&layout=compact&theme=swift&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
 </div>
 
 # 👋 Hi, I'm Sim Zhong Xian
@@ -135,6 +129,12 @@ C++                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+<div align="center">
+
+[![Top Langs-Dark](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=simzx02&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=simzx02&layout=compact&theme=swift&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</div>
 
 ## 📫 How to Reach Me
 
