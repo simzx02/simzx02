@@ -1,24 +1,28 @@
 [![Actions Status](https://github.com/simzx02/simzx02/workflows/waka-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
 [![Actions Status](https://github.com/simzx02/simzx02/workflows/update-gh-activity/badge.svg)](https://github.com/simzx02/simzx02/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=simzx02.simzx02)
+![](https://visitor-badge.glitch.me/badge?page_id=simzx02.simzx02) ![](https://komarev.com/ghpvc/?username=simzx02&style=flat-square&label=PROFILE+VIEWS&abbreviated=true)
 
 <p align="center">
   <img src="https://socialify.git.ci/simzx02/simzx02/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="simzx02" width="700" height="300" />
 </p>
 
-<p align="center">
+<div align="center">
+  
+[![cy-Yin's GitHub stats-Dark](https://github-readme-stats-cyyin.vercel.app/api?username=simzx02&count_private=true&show_icons=true&theme=react&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![cy-Yin's GitHub stats-Light](https://github-readme-stats-cyyin.vercel.app/api?username=simzx02&count_private=true&show_icons=true&theme=swift&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <br/>
-<a href="https://www.linkedin.com/in/simzhongxian/">
-  <img alt="Sim Zhong Xian's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<br>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simzx02&theme=onedark&column=-1" />
-</p>
+[![trophy-Dark](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=nord&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophy-Light](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=flat&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simzx02&theme=github-dark-dimmed&custom_title=Sim%20Zhong%20Xian%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+
+[![Top Langs-Dark](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=simzx02&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=simzx02&layout=compact&theme=swift&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
+</div>
 
 # 👋 Hi, I'm Sim Zhong Xian
 
