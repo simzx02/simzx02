@@ -6,16 +6,19 @@
 </p>
 
 <div align="center">
-  
-[![cy-Yin's GitHub stats-Dark](https://github-readme-stats-cyyin.vercel.app/api?username=simzx02&count_private=true&show_icons=true&theme=react&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![cy-Yin's GitHub stats-Light](https://github-readme-stats-cyyin.vercel.app/api?username=simzx02&count_private=true&show_icons=true&theme=swift&hide_border=true&show_owner=true&show=discussions_answered&disable_animations=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<br/>
 
 [![trophy-Dark](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=nord&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 [![trophy-Light](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=flat&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simzx02/simzx02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simzx02/simzx02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simzx02/simzx02/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
+
 
 # 👋 Hi, I'm Sim Zhong Xian
 
@@ -136,6 +139,10 @@ C++                      1 repo              ██░░░░░░░░░�
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
