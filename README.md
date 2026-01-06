@@ -58,9 +58,50 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2024%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.92%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.92%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+🌆 Daytime                263 commits         ███████████░░░░░░░░░░░░░░   43.54 % 
+🌃 Evening                176 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Tuesday                  76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Thursday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Saturday                 16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Sunday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
@@ -75,7 +116,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:48:42 UTC
+ Last Updated on 06/01/2026 01:40:34 UTC
 <!--END_SECTION:waka-->
 
 ---
