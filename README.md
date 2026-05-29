@@ -58,65 +58,24 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2028%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.92%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-🌆 Daytime                266 commits         ███████████░░░░░░░░░░░░░░   43.75 % 
-🌃 Evening                177 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
-🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   127 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Tuesday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Sunday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 28/05/2026 02:58:05 UTC
+ Last Updated on 29/05/2026 03:28:05 UTC
 <!--END_SECTION:waka-->
 
 ---
