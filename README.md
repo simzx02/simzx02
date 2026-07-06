@@ -62,26 +62,26 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.98%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-🌆 Daytime                269 commits         ███████████░░░░░░░░░░░░░░   44.03 % 
-🌃 Evening                177 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌞 Morning                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+🌆 Daytime                283 commits         ███████████░░░░░░░░░░░░░░   44.22 % 
+🌃 Evening                185 commits         ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌙 Night                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   127 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-Tuesday                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Thursday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Friday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Saturday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Sunday                   161 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Monday                   131 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Tuesday                  78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Thursday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Sunday                   164 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
 ```
 
 
@@ -91,16 +91,25 @@ Sunday                   161 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               16 mins             ███████████░░░░░░░░░░░░░░   44.89 % 
+Python                   14 mins             ██████████░░░░░░░░░░░░░░░   39.11 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             ████████████████████████░   94.83 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ec_testbed               18 mins             ████████████░░░░░░░░░░░░░   48.37 % 
+simzx_website            16 mins             ███████████░░░░░░░░░░░░░░   44.89 % 
+ECTestbedUI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+dari-java                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +117,7 @@ No Activity Tracked This Week
 ```text
 Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
 C                        3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
@@ -116,7 +125,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2026 02:55:18 UTC
+ Last Updated on 06/07/2026 03:22:16 UTC
 <!--END_SECTION:waka-->
 
 ---
