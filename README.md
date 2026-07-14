@@ -91,25 +91,16 @@ Sunday                   164 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-JavaScript               16 mins             ███████████░░░░░░░░░░░░░░   44.89 % 
-Python                   14 mins             ██████████░░░░░░░░░░░░░░░   39.11 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Java                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             ████████████████████████░   94.83 % 
-Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ec_testbed               18 mins             ████████████░░░░░░░░░░░░░   48.37 % 
-simzx_website            16 mins             ███████████░░░░░░░░░░░░░░   44.89 % 
-ECTestbedUI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-dari-java                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -125,7 +116,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2026 02:35:27 UTC
+ Last Updated on 14/07/2026 02:21:46 UTC
 <!--END_SECTION:waka-->
 
 ---
