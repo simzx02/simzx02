@@ -58,7 +58,9 @@ Smart manufacturing solution with AI-powered machine vision for quality control,
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2055%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -103,6 +105,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -116,7 +124,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:44:46 UTC
+ Last Updated on 28/07/2026 02:24:28 UTC
 <!--END_SECTION:waka-->
 
 ---
