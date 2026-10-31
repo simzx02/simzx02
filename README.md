@@ -1,14 +1,6 @@
 [![Actions Status](https://github.com/simzx02/simzx02/workflows/waka-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
 [![Actions Status](https://github.com/simzx02/simzx02/workflows/update-gh-activity/badge.svg)](https://github.com/simzx02/simzx02/actions)
 
-<p align="center">
-  <img src="https://socialify.git.ci/simzx02/simzx02/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="simzx02" width="700" height="300" />
-</p>
-
-<div align="center">
-
-[![trophy-Dark](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=nord&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
-[![trophy-Light](https://github-profile-trophy-cyyin.vercel.app/?username=simzx02&theme=flat&title=-Reviews&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 <br>
 <picture>
@@ -20,20 +12,8 @@
 </div>
 
 
-# 👋 Hi, I'm Sim Zhong Xian
+# 👋 Hi!
 
-📍 **Based in:** Penang
-🎓 **Status:** Fresh Graduate 
-🌏 **From:** Malaysia
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering (Electrical-Mechatronics) with Honours**  
-Universiti Teknologi Malaysia  
-
----
 
 ## 🔭 Featured Projects
 
@@ -43,19 +23,6 @@ AI-powered cardiovascular disease detection system integrating IoT sensors (MAX3
 ### [Capstone: Contact Lens Packaging Detector & Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
 Smart manufacturing solution with AI-powered machine vision for quality control, reducing packaging defects through automated detection and classification.
 
----
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/simzx02/simzx_website/releases/tag/v2.0.0) in [simzx02/simzx_website](https://github.com/simzx02/simzx_website)
-2. 🚀 Published release [Full HTML Version](https://github.com/simzx02/simzx_website/releases/tag/v1.0.0) in [simzx02/simzx_website](https://github.com/simzx02/simzx_website)
-3. 🚀 Published release [Version 1.0.0](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer/releases/tag/V1.0.0) in [simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer](https://github.com/simzx02/Capstone-Contact-Lens-Packaging-Detector-Optimizer)
-4. 🚀 Published release [Complete Release v1.0.0](https://github.com/simzx02/cardio/releases/tag/v1.0.0) in [simzx02/cardio](https://github.com/simzx02/cardio)
-5. 🎉 Merged PR [#1](https://github.com/Unchained-Labs/chatbox-sandbox/pull/1) in [Unchained-Labs/chatbox-sandbox](https://github.com/Unchained-Labs/chatbox-sandbox)
-<!--END_SECTION:activity-->
-
----
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2014%20mins-blue?style=flat)
@@ -130,10 +97,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ---
 
 ## 📫 How to Reach Me
-
-- 📧 Email: simxian@graduate.utm.my
 - 💼 LinkedIn: [Sim Zhong Xian](https://www.linkedin.com/in/simzhongxian/)
-- 🌐 Website: [Click Me](https://simzx.me)
 
 
 ---
