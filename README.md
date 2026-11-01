@@ -60,16 +60,18 @@ Sunday                   165 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 20 mins       ████████████████████████░   95.33 % 
+C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+5. FOEL Research         2 hrs 20 mins       ████████████████████████░   95.57 % 
+final_version            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,7 +93,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 04:05:28 UTC
+ Last Updated on 01/11/2026 04:27:54 UTC
 <!--END_SECTION:waka-->
 
 ---
