@@ -1,15 +1,4 @@
-[![Actions Status](https://github.com/simzx02/simzx02/workflows/waka-stats/badge.svg)](https://github.com/simzx02/simzx02/actions)
-[![Actions Status](https://github.com/simzx02/simzx02/workflows/update-gh-activity/badge.svg)](https://github.com/simzx02/simzx02/actions)
 
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simzx02/simzx02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simzx02/simzx02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/simzx02/simzx02/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
 
 
 # 👋 Hi!
